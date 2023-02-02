@@ -1,0 +1,56 @@
+#font1 {
+    font-family: monospace;
+    margin-left: 10px;
+    margin-right: auto;
+    color: #84adea;
+}
+#color {
+    color: blue;
+}
+#about1 {
+    text-align: center
+    border: 8px gray solid;
+    padding: 5px;
+    
+}
+#fontandcenter {
+    font-family: Sans-serif;
+    text-align: center
+}
+.padding {
+    padding-top: 30px
+    padding-right: 50px
+    padding-bottom: 30px
+    padding-left: 50px
+}
+
+table, th, td {
+  border: 1px solid black;
+  padding: 0px;
+  background-color: #9cbbea;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+#center {
+    text-align: center;
+    margin-top: 10px;
+}
+#center2 {
+    margin: middle;
+}
+.center {
+  margin-left: 150px;
+  margin-right: 150px;
+}
+iframe {
+    width:400px;
+    height:300px;
+    margin-left: 600px;
+    margin-right: 500px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
